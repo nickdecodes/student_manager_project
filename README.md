@@ -1,2 +1,2 @@
-# student_manager_project
-student_manager_project
+# student-manager-project
+student-manager-project
